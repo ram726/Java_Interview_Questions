@@ -10,3 +10,8 @@ Ans) No, one of the ways was the static block, but it was possible till JDK 1.6.
 
 Q. Which operator is use to create memory space in java?
 Ans> new operator is use to create dyanmic memory space in java.
+
+Q. What are the task done by new operator?
+Ans> 1. new operator is use to create dyanmic memory space in java.
+     2. new operator i used to create object for class.
+     3. new operator is used to assign object address to the left sid eof reference variable.
